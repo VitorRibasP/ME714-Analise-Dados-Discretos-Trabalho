@@ -4,7 +4,7 @@ library(MASS)
 library(DHARMa)
 library(kableExtra)
 
-banco <- read.csv("filmes.csv")
+banco <- read.csv("filmes.csv") 
 
 ########################################################
 ################### AJUSTES INICIAIS ###################
